@@ -1,37 +1,37 @@
 [
   {
     "full_name": "WomenWhoCode/wwcsf-algos",
-    "stargazers_count": 177,
+    "stargazers_count": 176,
     "open_issues_count": 25,
     "forks_count": 75
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 573,
+    "stargazers_count": 572,
     "open_issues_count": 29,
-    "forks_count": 163
+    "forks_count": 162
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 148884,
+    "stargazers_count": 149067,
     "open_issues_count": 132,
-    "forks_count": 29591
+    "forks_count": 29622
   },
   {
     "full_name": "piotrwitek/react-redux-typescript-guide",
-    "stargazers_count": 11708,
+    "stargazers_count": 11714,
     "open_issues_count": 35,
-    "forks_count": 894
+    "forks_count": 895
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 37572,
-    "open_issues_count": 714,
-    "forks_count": 26565
+    "stargazers_count": 37607,
+    "open_issues_count": 718,
+    "forks_count": 26587
   },
   {
     "full_name": "bernaferrari/EmojiSlider",
-    "stargazers_count": 570,
+    "stargazers_count": 571,
     "open_issues_count": 4,
     "forks_count": 39
   },
@@ -43,49 +43,49 @@
   },
   {
     "full_name": "prettier/prettier-eslint",
-    "stargazers_count": 3466,
+    "stargazers_count": 3467,
     "open_issues_count": 38,
     "forks_count": 181
   },
   {
     "full_name": "llSourcell/Learn_Computer_Science_in_5_Months",
-    "stargazers_count": 1798,
+    "stargazers_count": 1799,
     "open_issues_count": 9,
     "forks_count": 574
   },
   {
     "full_name": "swapagarwal/swag-for-dev",
-    "stargazers_count": 3923,
+    "stargazers_count": 3924,
     "open_issues_count": 88,
-    "forks_count": 308
+    "forks_count": 307
   },
   {
     "full_name": "jgthms/bulma",
-    "stargazers_count": 44988,
-    "open_issues_count": 361,
+    "stargazers_count": 45014,
+    "open_issues_count": 360,
     "forks_count": 3848
   },
   {
     "full_name": "OctoLinker/OctoLinker",
-    "stargazers_count": 4879,
-    "open_issues_count": 47,
+    "stargazers_count": 4881,
+    "open_issues_count": 49,
     "forks_count": 312
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 186948,
-    "open_issues_count": 39,
-    "forks_count": 22714
+    "stargazers_count": 187393,
+    "open_issues_count": 40,
+    "forks_count": 22727
   },
   {
     "full_name": "kamranahmedse/githunt",
     "stargazers_count": 2220,
     "open_issues_count": 13,
-    "forks_count": 240
+    "forks_count": 241
   },
   {
     "full_name": "ProLoser/Github-Omnibox",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 25,
     "forks_count": 35
   },
@@ -99,13 +99,13 @@
     "full_name": "heroku/heroku-accounts",
     "stargazers_count": 521,
     "open_issues_count": 19,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 105540,
-    "open_issues_count": 5044,
-    "forks_count": 6991
+    "stargazers_count": 105768,
+    "open_issues_count": 4959,
+    "forks_count": 7021
   },
   {
     "full_name": "github/accessibilityjs",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "animate-css/animate.css",
-    "stargazers_count": 73515,
-    "open_issues_count": 25,
-    "forks_count": 16034
+    "stargazers_count": 73537,
+    "open_issues_count": 26,
+    "forks_count": 16038
   },
   {
     "full_name": "thread-pond/scrum-lint",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "JuanitoFatas/fast-ruby",
-    "stargazers_count": 5198,
+    "stargazers_count": 5201,
     "open_issues_count": 72,
     "forks_count": 375
   },
   {
     "full_name": "sumodirjo/engineering-blogs",
-    "stargazers_count": 1163,
+    "stargazers_count": 1165,
     "open_issues_count": 1,
     "forks_count": 199
   },
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "coodict/javascript-in-one-pic",
-    "stargazers_count": 6600,
+    "stargazers_count": 6603,
     "open_issues_count": 15,
-    "forks_count": 774
+    "forks_count": 775
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 25449,
-    "open_issues_count": 118,
-    "forks_count": 1745
+    "stargazers_count": 25457,
+    "open_issues_count": 119,
+    "forks_count": 1747
   },
   {
     "full_name": "AccessLint/accesslint.rb",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 43734,
-    "open_issues_count": 352,
-    "forks_count": 7782
+    "stargazers_count": 43780,
+    "open_issues_count": 354,
+    "forks_count": 7783
   }
 ]
